@@ -1,0 +1,37 @@
+.navbar {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    height: 50px;
+    padding: 0 10px;
+    
+    color: white;
+    background-color: black;
+}
+
+.navbar__title {
+    margin: auto 0;
+
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.navbar__button {
+    padding: 10px;
+
+    color: black;
+    font-weight: 600;
+    background-color: #fff;
+    border-radius: 4px;
+
+    transition: all .2s ease-in-out;
+}
+
+.navbar__button:hover {
+    color:rgb(50, 50, 50);
+    background-color: #cccccc;
+
+    transition: all .2s ease-in-out;
+}

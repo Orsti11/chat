@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "0",
+      "email": "test@test.com",
+      "password": "123123qw"
+    },
+    {
+      "id": "b2c7",
+      "email": "new_user@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "7e2e",
+      "email": "user@mail.ru",
+      "password": "18181919qw"
+    },
+    {
+      "id": "bc29",
+      "email": "user2@gmail.com",
+      "password": "12345qw"
+    }
+  ],
+  "chat": [
+    {
+      "id": "dbdb",
+      "name": "new_user@gmail.com",
+      "message": "Hi, friend!",
+      "date": "2024-03-21T13:12:03.425Z"
+    },
+    {
+      "id": "2e1c",
+      "name": "user@mail.ru",
+      "message": "Hi!",
+      "date": "2024-03-21T13:15:56.136Z"
+    },
+    {
+      "id": "1efd",
+      "name": "test@test.com",
+      "message": "Hi, my friend!",
+      "date": "2024-03-21T13:17:36.781Z"
+    }
+  ]
+}
